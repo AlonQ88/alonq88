@@ -20,7 +20,7 @@ Senior .NET Developer with 12+ years of experience building scalable, secure bac
 
 ## 🛠 Projects
 
-- 🔧 **TecniTico** — My own product connecting Costa Ricans with trusted local professionals for home, personal, and business services.
+- 🔧 **Breteo** — My own product connecting Costa Ricans with trusted local professionals for home, personal, and business services.
 - 🏞️ **Tourist Services Marketplace** — A React Native mobile app connecting tourists with guides, drivers, and local experiences in Costa Rica.
 
 ## 🤖 Interests
